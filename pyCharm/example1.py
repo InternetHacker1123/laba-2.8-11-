@@ -55,7 +55,6 @@ def display_workers(staff):
                 )
             )
         print(line)
-        print("Список работников пуст.")
 
 
 def select_workers(staff, period):
