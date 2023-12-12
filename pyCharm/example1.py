@@ -3,6 +3,7 @@
 
 import sys
 
+
 def get_worker():
     """
    Запросить данные о работнике.
